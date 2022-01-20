@@ -1,7 +1,7 @@
-package com.example.emenu.restControllers;
+package com.example.tasty.restControllers;
 
-import com.example.emenu.entity.Post;
-import com.example.emenu.service.PostService;
+import com.example.tasty.post.Post;
+import com.example.tasty.post.PostService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;
